@@ -1,0 +1,10 @@
+2019-10-07 17:43:09.609  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : Starting BlogApplication on 李双亮 with PID 7116 (started by lishuangliang in C:\Users\李双亮\IdeaProjects\MyBlog)
+2019-10-07 17:43:09.612  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : The following profiles are active: pro
+2019-10-07 17:43:15.997  WARN 7116 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-07 17:43:16.720  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : Started BlogApplication in 7.642 seconds (JVM running for 10.29)
+2019-10-07 17:43:46.651  WARN 7116 --- [http-nio-8081-exec-1] org.hibernate.orm.deprecation            : HHH90000016: Found use of deprecated 'collection property' syntax in HQL/JPQL query [t.blogs.size]; use collection function syntax instead [size(t.blogs)].
+2019-10-07 17:43:46.665  WARN 7116 --- [http-nio-8081-exec-1] org.hibernate.orm.deprecation            : HHH90000016: Found use of deprecated 'collection property' syntax in HQL/JPQL query [t.blogs.size]; use collection function syntax instead [size(t.blogs)].
+2019-10-07 17:53:31.011  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : Starting BlogApplication on 李双亮 with PID 7116 (started by lishuangliang in C:\Users\李双亮\IdeaProjects\MyBlog)
+2019-10-07 17:53:31.011  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : The following profiles are active: pro
+2019-10-07 17:53:33.939  WARN 7116 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2019-10-07 17:53:34.709  INFO 7116 --- [restartedMain] com.lsl.blog.BlogApplication             : Started BlogApplication in 3.758 seconds (JVM running for 628.317)
